@@ -17,6 +17,5 @@ liana>=0.1.0
 umap-learn>=0.5.0
 leidenalg
 python-igraph
-plotly
 plotly>=5.0.0
-gensim>=4.4.0 
+gensim>=4.4.0
