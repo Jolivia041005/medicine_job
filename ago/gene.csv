@@ -1,0 +1,9 @@
+symbol,name,desc
+INS,insulin,胰腺β细胞分泌调节血糖
+IRS1,insulin receptor substrate 1,胰岛素信号转导
+PRKAA1,AMPK alpha1,能量代谢感受器
+SIRT1,sirtuin 1,去乙酰化酶改善胰岛素抵抗
+SLC2A4,GLUT4,葡萄糖转运体4
+PPARG,PPAR gamma,脂肪分化与胰岛素敏感性
+GCK,glucokinase,葡萄糖磷酸化胰岛素分泌
+IRS2,insulin receptor substrate 2,胰岛素信号

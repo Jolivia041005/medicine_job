@@ -1,0 +1,6 @@
+accession,series_matrix,role,note
+GSE41762,data/model_training/raw/GSE41762_series_matrix.txt.gz,training,human pancreatic islets; larger GPL6244 cohort
+GSE20966,data/model_training/raw/GSE20966_series_matrix.txt.gz,training,laser-captured beta-cell enriched tissue; GPL1352
+GSE38642,data/model_training/raw/GSE38642_series_matrix.txt.gz,excluded,downloaded during dataset search but excluded because donor IDs overlap with GSE41762
+GSE25724,data/model_training/raw/GSE25724_series_matrix.txt.gz,excluded,downloaded during dataset search but excluded because GPL96 lacks CLTRN/TMEM27 and SLC30A8 probes
+GSE86468,data/external/GSE86468/raw/GSE86468_series_matrix.txt.gz,external_test,held out and not used for model fitting

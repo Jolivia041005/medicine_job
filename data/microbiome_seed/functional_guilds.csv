@@ -1,0 +1,18 @@
+canonical_taxon,functional_guild,confidence,mechanism_summary,strain_specific,source_url,limitations
+Faecalibacterium,Butyrate/SCFA-associated,high,该属以 Faecalibacterium prausnitzii 等丁酸产生菌为代表，可将膳食底物转化为丁酸并与肠屏障和免疫稳态相关。,yes,https://pubmed.ncbi.nlm.nih.gov/29566907/,功能证据主要来自特定物种和菌株；仅检出属名不能证明样本中存在相同丁酸合成能力。
+Faecalibacterium prausnitzii,Butyrate/SCFA-associated,high,Faecalibacterium prausnitzii 是人类结肠中重要的丁酸产生菌，其代谢产物与抗炎和上皮稳态相关。,yes,https://pubmed.ncbi.nlm.nih.gov/29796620/,菌株间代谢和抗炎效应存在差异；分类丰度不能替代丁酸定量或功能基因检测。
+Roseburia,Butyrate/SCFA-associated,high,Roseburia 属包含多种严格厌氧丁酸产生菌，可参与膳食碳水化合物发酵和结肠短链脂肪酸生成。,yes,https://pubmed.ncbi.nlm.nih.gov/28139139/,属内并非所有物种和菌株的底物利用与丁酸产量相同；不能由相对丰度直接推算通路活性。
+Akkermansia,Mucin-associated,high,Akkermansia 属以黏蛋白利用为突出生态特征，可在肠黏液层生境中参与黏蛋白降解和代谢物交叉供养。,yes,https://pubmed.ncbi.nlm.nih.gov/26875998/,多数机制研究集中于 A. muciniphila；属水平匹配不能概括全部菌株，也不能直接判断肠屏障改善或受损。
+Akkermansia muciniphila,Mucin-associated,high,Akkermansia muciniphila 是专性黏蛋白利用菌，可降解黏液层中的黏蛋白并产生可被其他菌利用的代谢物。,no,https://pubmed.ncbi.nlm.nih.gov/15388697/,黏蛋白利用是该物种的核心表型，但宿主效应仍受菌株、丰度、饮食和黏液层状态影响。
+Ruminococcus,Mucin-associated,low,Ruminococcus 属中的部分物种（尤其 R. gnavus）具有利用肠黏液糖链的能力，可参与黏蛋白生态位竞争。,yes,https://pubmed.ncbi.nlm.nih.gov/27223845/,这是物种特异性很强的功能，不能推广到整个 Ruminococcus 属；旧分类体系下该属也存在命名和重分类问题。
+Bifidobacterium,Probiotic-associated,high,Bifidobacterium 中包含多种被用于益生菌制剂和临床试验的菌株，可产生乙酸、乳酸并参与肠道交叉营养。,yes,https://pubmed.ncbi.nlm.nih.gov/26732026/,益生作用是菌株和制剂特异的；自然菌群中的属水平丰度不能等同于摄入或定植了具有临床证据的益生菌株。
+Lactobacillus,Probiotic-associated,high,Lactobacillus 相关分类群包含多种用于发酵食品和益生菌干预的菌株，部分菌株曾在 T2D 人群干预研究中使用。,yes,https://pubmed.ncbi.nlm.nih.gov/26732026/,该名称覆盖多个已重分类属和大量菌株；益生作用不能由属水平丰度推断，且部分T2D观察研究中该属反而升高。
+Escherichia,LPS/inflammation-associated,medium,Escherichia 为革兰阴性菌，细胞外膜含脂多糖；部分扩增与肠道内毒素和炎症机制相关，但不同菌株的免疫原性差异很大。,yes,https://pubmed.ncbi.nlm.nih.gov/26633628/,T2D队列中的 Escherichia 升高可受到二甲双胍显著影响；分类丰度既不能识别毒力株，也不能测量LPS暴露。
+Escherichia,Opportunistic-pathogen-associated,medium,Escherichia 属包含常驻共生株，也包含可在宿主或生态环境变化时表现为机会致病的菌株。,yes,https://pubmed.ncbi.nlm.nih.gov/23023125/,属水平信号无法区分无害共生株与致病株；不能仅凭相对丰度判定感染或致病风险。
+Escherichia-Shigella,LPS/inflammation-associated,medium,Escherichia-Shigella 分类群属于革兰阴性肠杆菌目，其升高常被作为潜在内毒素和炎症相关信号解释。,yes,https://pubmed.ncbi.nlm.nih.gov/39897957/,16S常不能可靠区分 Escherichia 与 Shigella；该标签不能识别毒力因子或证明真实LPS通路活性，且二甲双胍可能造成混杂。
+Escherichia-Shigella,Opportunistic-pathogen-associated,medium,Escherichia-Shigella 分类标签包含多种共生、机会致病和致病谱系，T2D研究中常见其相对升高。,yes,https://pubmed.ncbi.nlm.nih.gov/39897957/,16S属级标签无法区分无害与致病菌株；不应将该结果直接解释为感染或临床致病性。
+Fusobacterium,Opportunistic-pathogen-associated,medium,Fusobacterium 属包含可从口腔迁移并与多种炎症性疾病相关的机会致病菌，其中 F. nucleatum 的证据最充分。,yes,https://pubmed.ncbi.nlm.nih.gov/40983729/,主要机制证据来自牙周病、炎症性肠病和肿瘤研究，而非T2D直接干预；属水平不能代表 F. nucleatum。
+Fusobacterium,LPS/inflammation-associated,low,部分 Fusobacterium 物种可通过黏附、免疫刺激和炎症反应参与宿主疾病过程，因此可作为低置信度炎症相关标签。,yes,https://pubmed.ncbi.nlm.nih.gov/40983729/,该功能标签主要由 F. nucleatum 等物种证据外推，缺少对T2D队列中具体菌株和炎症介质的直接测量。
+Bacteroides,Bile-acid-associated,low,Bacteroides 属中的部分物种和菌株具有胆汁酸转化、耐受或影响宿主胆汁酸信号的能力。,yes,https://pubmed.ncbi.nlm.nih.gov/30397356/,核心证据集中于 Bacteroides fragilis 等特定物种及二甲双胍-胆汁酸轴，不能将功能推广到整个属。
+Megasphaera,Butyrate/SCFA-associated,medium,Megasphaera 属中的部分菌株可产生乙酸、丙酸、丁酸和戊酸等短链脂肪酸。,yes,https://pubmed.ncbi.nlm.nih.gov/29331526/,功能证据主要来自特定 Megasphaera elsdenii 分离株；属水平升高不代表所有SCFA均有利，也不能直接推断体内产量。
+Anaerostipes hadrus,Butyrate/SCFA-associated,high,Anaerostipes hadrus是人类肠道常见的丁酸产生菌，可利用乳酸和乙酸等发酵底物参与丁酸生成。,yes,https://pubmed.ncbi.nlm.nih.gov/25838483/,不同菌株的底物利用和丁酸产量可能不同；分类丰度不能替代丁酸浓度或丁酸合成基因的直接测定。

@@ -1,0 +1,25 @@
+external_dataset,gsm_id,sample_title,source_name,bulk_sample_type,tissue,diabetes_status,disease,sex,age,race,bmi,islet_unos_id,is_baseline_external_test,platform_id,sample_id
+GSE86468,GSM2303122,baseline-03182015_S2,Pancreatic Islet,Baseline,Pancreatic Islet,ND,Non-diabetic,Male,22,African American,32.95,ACCG268,True,RNA-seq/RSEM,GSE86468_GSM2303122
+GSE86468,GSM2303123,baseline-03272015_S8,Pancreatic Islet,Baseline,Pancreatic Islet,T2D,Type 2 diabetic,Male,51,Hispanic,35.8,ACCR015A,True,RNA-seq/RSEM,GSE86468_GSM2303123
+GSE86468,GSM2303124,baseline-05202015-Islet-15_S1,Pancreatic Islet,Baseline,Pancreatic Islet,ND,Non-diabetic,Female,53,White,22.0,ACEK420A,True,RNA-seq/RSEM,GSE86468_GSM2303124
+GSE86468,GSM2303125,baseline-05222015-Islet-16_S6,Pancreatic Islet,Baseline,Pancreatic Islet,ND,Non-diabetic,Male,29,White,23.0,ACEL337,True,RNA-seq/RSEM,GSE86468_GSM2303125
+GSE86468,GSM2303126,baseline-09032015_S2,Pancreatic Islet,Baseline,Pancreatic Islet,ND,Non-diabetic,Male,30,African American,55.0,ACHY057,True,RNA-seq/RSEM,GSE86468_GSM2303126
+GSE86468,GSM2303127,baseline-09102015_S7,Pancreatic Islet,Baseline,Pancreatic Islet,ND,Non-diabetic,Female,56,White,26.6,ACIB065,True,RNA-seq/RSEM,GSE86468_GSM2303127
+GSE86468,GSM2303128,baseline-10012015_S12,Pancreatic Islet,Baseline,Pancreatic Islet,T2D,Type 2 diabetic,Female,55,White,29.8,ACIW009,True,RNA-seq/RSEM,GSE86468_GSM2303128
+GSE86468,GSM2303129,baseline-10292015_S17,Pancreatic Islet,Baseline,Pancreatic Islet,T2D,Type 2 diabetic,Female,42,Hispanic,43.0,ACJV399,True,RNA-seq/RSEM,GSE86468_GSM2303129
+GSE86468,GSM2303130,Single-cell-bulk-03182015_S4,Pancreatic Islet,Dissociated,Pancreatic Islet,ND,Non-diabetic,Male,22,African American,32.95,ACCG268,False,RNA-seq/RSEM,GSE86468_GSM2303130
+GSE86468,GSM2303131,Single-cell-bulk-03272015_S10,Pancreatic Islet,Dissociated,Pancreatic Islet,T2D,Type 2 diabetic,Male,51,Hispanic,35.8,ACCR015A,False,RNA-seq/RSEM,GSE86468_GSM2303131
+GSE86468,GSM2303132,Single-cell-bulk-05202015_S3,Pancreatic Islet,Dissociated,Pancreatic Islet,ND,Non-diabetic,Female,53,White,22.0,ACEK420A,False,RNA-seq/RSEM,GSE86468_GSM2303132
+GSE86468,GSM2303133,Single-cell-bulk-05222015_S8,Pancreatic Islet,Dissociated,Pancreatic Islet,ND,Non-diabetic,Male,29,White,23.0,ACEL337,False,RNA-seq/RSEM,GSE86468_GSM2303133
+GSE86468,GSM2303134,Single-cell-bulk-c1-09032015_S5,Pancreatic Islet,Dissociated,Pancreatic Islet,ND,Non-diabetic,Male,30,African American,55.0,ACHY057,False,RNA-seq/RSEM,GSE86468_GSM2303134
+GSE86468,GSM2303135,Single-cell-bulk-c1-09102015_S10,Pancreatic Islet,Dissociated,Pancreatic Islet,ND,Non-diabetic,Female,56,White,26.6,ACIB065,False,RNA-seq/RSEM,GSE86468_GSM2303135
+GSE86468,GSM2303136,Single-cell-bulk-c1-10012015_S15,Pancreatic Islet,Dissociated,Pancreatic Islet,T2D,Type 2 diabetic,Female,55,White,29.8,ACIW009,False,RNA-seq/RSEM,GSE86468_GSM2303136
+GSE86468,GSM2303137,Single-cell-bulk-c1-10292015_S20,Pancreatic Islet,Dissociated,Pancreatic Islet,T2D,Type 2 diabetic,Female,42,Hispanic,43.0,ACJV399,False,RNA-seq/RSEM,GSE86468_GSM2303137
+GSE86468,GSM2303138,undissociated-c1-ctrl-09032015_S3,Pancreatic Islet,Intact,Pancreatic Islet,ND,Non-diabetic,Male,30,African American,55.0,ACHY057,False,RNA-seq/RSEM,GSE86468_GSM2303138
+GSE86468,GSM2303139,undissociated-c1-ctrl-09102015_S8,Pancreatic Islet,Intact,Pancreatic Islet,ND,Non-diabetic,Female,56,White,26.6,ACIB065,False,RNA-seq/RSEM,GSE86468_GSM2303139
+GSE86468,GSM2303140,undissociated-c1-ctrl-10012015_S13,Pancreatic Islet,Intact,Pancreatic Islet,T2D,Type 2 diabetic,Female,55,White,29.8,ACIW009,False,RNA-seq/RSEM,GSE86468_GSM2303140
+GSE86468,GSM2303141,undissociated-c1-ctrl-10292015_S18,Pancreatic Islet,Intact,Pancreatic Islet,T2D,Type 2 diabetic,Female,42,Hispanic,43.0,ACJV399,False,RNA-seq/RSEM,GSE86468_GSM2303141
+GSE86468,GSM2303142,Untreated-Ctrl-03182015_S3,Pancreatic Islet,Intact,Pancreatic Islet,ND,Non-diabetic,Male,22,African American,32.95,ACCG268,False,RNA-seq/RSEM,GSE86468_GSM2303142
+GSE86468,GSM2303143,Untreated-Ctrl-03272015_S9,Pancreatic Islet,Intact,Pancreatic Islet,T2D,Type 2 diabetic,Male,51,Hispanic,35.8,ACCR015A,False,RNA-seq/RSEM,GSE86468_GSM2303143
+GSE86468,GSM2303144,Untreated-Ctrl-05202015_S2,Pancreatic Islet,Intact,Pancreatic Islet,ND,Non-diabetic,Female,53,White,22.0,ACEK420A,False,RNA-seq/RSEM,GSE86468_GSM2303144
+GSE86468,GSM2303145,Untreated-Ctrl-05222015_S7,Pancreatic Islet,Intact,Pancreatic Islet,ND,Non-diabetic,Male,29,White,23.0,ACEL337,False,RNA-seq/RSEM,GSE86468_GSM2303145

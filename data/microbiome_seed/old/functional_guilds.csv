@@ -1,0 +1,14 @@
+canonical_taxon,functional_guild,confidence,mechanism_summary,strain_specific,source_url,limitations
+Faecalibacterium,Butyrate/SCFA-associated,high,"Faecalibacterium prausnitzii 是肠道中主要的丁酸产生菌，丁酸为结肠细胞提供能量并具有抗炎作用。",yes,https://pubmed.ncbi.nlm.nih.gov/23023125/,菌株间丁酸产量差异大
+Roseburia,Butyrate/SCFA-associated,high,"Roseburia 属是重要丁酸产生菌，其丰度与膳食纤维摄入正相关。",yes,https://pubmed.ncbi.nlm.nih.gov/23719380/,依赖膳食纤维供应
+Coprococcus,Butyrate/SCFA-associated,medium,"部分 Coprococcus 物种具有丁酸合成能力。",yes,,种水平分辨率不足
+Eubacterium,Butyrate/SCFA-associated,medium,"Eubacterium 属包含多个丁酸产生物种，但功能具有异质性。",yes,,属内功能差异显著
+Escherichia,LPS/inflammation-associated,medium,"部分 Escherichia coli 菌株含有 LPS，可激活 TLR4 通路引发低度炎症。",yes,,不同菌株差异极大；并非所有 E. coli 致病
+Klebsiella,LPS/inflammation-associated,medium,"Klebsiella 属为革兰阴性菌，LPS 可能促进代谢性内毒素血症。",yes,,条件致病菌
+Desulfovibrio,LPS/inflammation-associated,medium,"硫酸盐还原菌产生的硫化氢可能损伤肠上皮屏障功能。",yes,https://pubmed.ncbi.nlm.nih.gov/23023125/,机制证据主要来自动物模型
+Fusobacterium,LPS/inflammation-associated,low,"Fusobacterium 与炎症相关，但在 T2D 中的作用尚不明确。",yes,,口腔来源为主
+Bifidobacterium,Probiotic-associated,high,"Bifidobacterium 是经典益生菌，多项研究显示其与代谢健康相关。",yes,,菌株特异性强；商业菌株与野生菌株差异大
+Lactobacillus,Probiotic-associated,medium,"Lactobacillus 属包含多个常用益生菌株，但在 T2D 中不同物种报告方向不一致。",yes,https://pubmed.ncbi.nlm.nih.gov/23719380/,种/株水平特异性极强
+Akkermansia,Mucin-associated,high,"Akkermansia muciniphila 降解黏蛋白，可促进肠道屏障完整性。二甲双胍可增加其丰度。",yes,https://pubmed.ncbi.nlm.nih.gov/26633628/,二甲双胍协变量混淆
+Bacteroides,Mucin-associated,medium,"Bacteroides 属包含多糖利用和黏蛋白降解物种。",no,,功能在种水平高度分化
+Prevotella,BCAA-associated,low,"高 Prevotella 水平与支链氨基酸（BCAA）代谢改变可能相关。",no,,因果关系未确立

@@ -1,0 +1,31 @@
+{
+  "source_files": {
+    "taxatable": {
+      "path": "data/raw/qin2012/taxatable.txt",
+      "sha256": "e4d234dfc7a8e4362a54c59cb942001acd2282378cd767f21ab5a28e5075e41b"
+    },
+    "task_labels": {
+      "path": "data/raw/qin2012/task-healthy-diabetes.txt",
+      "sha256": "acb6460fdc1c0c2c5a7d6b142bafefe29533a4fe914d108886ca299120ae7c6a"
+    }
+  },
+  "output_shape": {
+    "samples": 124,
+    "taxa": 2526
+  },
+  "sample_count": 124,
+  "groups": {
+    "T2D": 65,
+    "Control": 59
+  },
+  "abundance_scale": "count",
+  "orientation_detected": "taxa_as_rows",
+  "conversion_steps": [
+    "read taxa table with tab separator",
+    "detected orientation as taxa_as_rows",
+    "standardized to sample × taxon by transposition",
+    "mapped Y -> T2D, N -> Control",
+    "intersected sample IDs between abundance and metadata",
+    "wrote Parquet output"
+  ]
+}
