@@ -1,21 +1,37 @@
+# ========== 核心框架 ==========
 streamlit>=1.28.0
 pandas>=2.0.0
-duckdb>=0.9.0
-scikit-learn>=1.2.0
-jieba>=0.42.1
-openai>=1.0.0
-pdfplumber>=0.10.0
-tiktoken>=0.4.0
-shap==0.46.0
-matplotlib>=3.5.0
-joblib>=1.2.0
-numpy>=1.24
+plotly>=5.0.0
+numpy>=1.24.0
 pyarrow>=12.0.0
-xgboost==1.7.6
+
+# ========== 队列检索与文献检索 ==========
+pdfplumber>=0.10.0
+openai>=1.0.0
+duckdb>=0.9.0
+
+# ========== 风险预测模块 ==========
+scikit-learn>=1.2.0
+xgboost>=1.7.0
+shap>=0.40.0,<0.46.0
+joblib>=1.2.0
+
+# ========== 胰腺微环境模块（单细胞分析） ==========
 scanpy>=1.9.0
 liana>=0.1.0
 umap-learn>=0.5.0
-leidenalg
-python-igraph
-plotly>=5.0.0
+leidenalg>=0.9.0
+python-igraph>=0.10.0
+matplotlib>=3.5.0
+
+# ========== T2D 转录组模块 ==========
+# 注：该模块通过 from t2d_islet_web.streamlit_app import main 调用
+# 其内部依赖已在上述包中覆盖，无需额外添加
+
+# ========== 肠道微生物组分析模块 ==========
+# 主要使用 scikit-learn、plotly、pandas、numpy（均已包含）
+
+# ========== 辅助工具 ==========
+tiktoken>=0.4.0
+jieba>=0.42.1
 gensim>=4.5.0
